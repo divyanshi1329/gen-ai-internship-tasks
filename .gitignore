@@ -1,0 +1,18 @@
+# environment variables
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# output folders
+output/
+assets/
+*.mp4
+*.mp3
+
+# streamlit cache
+.streamlit/
+
+# vscode
+.vscode/
